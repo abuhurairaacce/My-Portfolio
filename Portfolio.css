@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+span {
+    color: orange;
+}
+
+.university {
+    color: grey;
+}
+
+section {
+    display: flex;
+}
+
+.section-1 {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.section-1 img {
+    width: 70%;
+}
+
+.abu-huraira {
+    text-decoration: none;
+    color: wheat;
+    background-image: linear-gradient(hotpink, tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 800;
+
+}
+
+#first-section {
+    background-image: url(upload-images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
