@@ -43,3 +43,37 @@ section {
     background-repeat: no-repeat;
 
 }
+
+.second-part {
+
+    width: 100%;
+    padding-right: 150px;
+
+
+}
+
+.second-part img {
+    width: 75%;
+}
+
+
+
+.second-part h1 {
+    color: tomato;
+}
+
+.second-part a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: 800;
+    background-image: linear-gradient(hotpink, tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+
+}
+
+#second-sec {
+    background-image: url(upload-images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
